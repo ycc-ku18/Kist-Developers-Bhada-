@@ -1,0 +1,63 @@
+C:\Users\Acer\documents\visual studio 2015\Projects\BhadaFare\BhadaFare\bin\Release\BhadaFare.dll
+C:\Users\Acer\documents\visual studio 2015\Projects\BhadaFare\BhadaFare\bin\Release\BhadaFare.pdb
+C:\Users\Acer\documents\visual studio 2015\Projects\BhadaFare\BhadaFare\bin\Release\BhadaFare.BhadaFare.apk
+C:\Users\Acer\documents\visual studio 2015\Projects\BhadaFare\BhadaFare\bin\Release\BhadaFare.BhadaFare-Signed.apk
+C:\Users\Acer\documents\visual studio 2015\Projects\BhadaFare\BhadaFare\bin\Release\MySql.Data.CF.dll
+C:\Users\Acer\documents\visual studio 2015\Projects\BhadaFare\BhadaFare\bin\Release\Xamarin.Android.Support.Annotations.dll
+C:\Users\Acer\documents\visual studio 2015\Projects\BhadaFare\BhadaFare\bin\Release\Xamarin.Android.Support.Compat.dll
+C:\Users\Acer\documents\visual studio 2015\Projects\BhadaFare\BhadaFare\bin\Release\Xamarin.Android.Support.Core.UI.dll
+C:\Users\Acer\documents\visual studio 2015\Projects\BhadaFare\BhadaFare\bin\Release\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\Acer\documents\visual studio 2015\Projects\BhadaFare\BhadaFare\bin\Release\Xamarin.Android.Support.Fragment.dll
+C:\Users\Acer\documents\visual studio 2015\Projects\BhadaFare\BhadaFare\bin\Release\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\Acer\documents\visual studio 2015\Projects\BhadaFare\BhadaFare\bin\Release\Xamarin.GooglePlayServices.Base.dll
+C:\Users\Acer\documents\visual studio 2015\Projects\BhadaFare\BhadaFare\bin\Release\Xamarin.GooglePlayServices.Basement.dll
+C:\Users\Acer\documents\visual studio 2015\Projects\BhadaFare\BhadaFare\bin\Release\Xamarin.GooglePlayServices.Maps.dll
+C:\Users\Acer\documents\visual studio 2015\Projects\BhadaFare\BhadaFare\bin\Release\Xamarin.GooglePlayServices.Tasks.dll
+C:\Users\Acer\documents\visual studio 2015\Projects\BhadaFare\BhadaFare\obj\Release\BhadaFare.csprojResolveAssemblyReference.cache
+C:\Users\Acer\documents\visual studio 2015\Projects\BhadaFare\BhadaFare\obj\Release\XbdMerge\Xamarin.GooglePlayServices.Basement.dll.stamp
+C:\Users\Acer\documents\visual studio 2015\Projects\BhadaFare\BhadaFare\obj\Release\XbdMerge\Xamarin.GooglePlayServices.Tasks.dll.stamp
+C:\Users\Acer\documents\visual studio 2015\Projects\BhadaFare\BhadaFare\obj\Release\XbdMerge\Xamarin.GooglePlayServices.Base.dll.stamp
+C:\Users\Acer\documents\visual studio 2015\Projects\BhadaFare\BhadaFare\obj\Release\XbdMerge\Xamarin.GooglePlayServices.Maps.dll.stamp
+C:\Users\Acer\documents\visual studio 2015\Projects\BhadaFare\BhadaFare\obj\Release\BhadaFare.dll
+C:\Users\Acer\documents\visual studio 2015\Projects\BhadaFare\BhadaFare\obj\Release\BhadaFare.pdb
+C:\Users\Acer\documents\visual studio 2015\Projects\BhadaFare\BhadaFare\obj\Release\android\bin\BhadaFare.BhadaFare.apk
+C:\Users\Acer\documents\visual studio 2015\Projects\BhadaFare\BhadaFare\obj\Release\res\layout\complain.xml
+C:\Users\Acer\documents\visual studio 2015\Projects\BhadaFare\BhadaFare\obj\Release\res\layout\dashboard.xml
+C:\Users\Acer\documents\visual studio 2015\Projects\BhadaFare\BhadaFare\obj\Release\res\layout\main.xml
+C:\Users\Acer\documents\visual studio 2015\Projects\BhadaFare\BhadaFare\obj\Release\res\values\strings.xml
+C:\Users\Acer\documents\visual studio 2015\Projects\BhadaFare\BhadaFare\obj\Release\R.cs.flag
+C:\Users\Acer\documents\visual studio 2015\Projects\BhadaFare\BhadaFare\obj\Release\uploadflags.txt
+C:\Users\Acer\documents\visual studio 2015\Projects\BhadaFare\BhadaFare\bin\Release\BhadaFare.dll.mdb
+C:\Users\Acer\documents\visual studio 2015\Projects\BhadaFare\BhadaFare\obj\Release\android\assets\BhadaFare.dll.mdb
+C:\Users\Acer\documents\visual studio 2015\Projects\BhadaFare\BhadaFare\obj\Release\res\layout\complaning.xml
+C:\Users\Acer\documents\visual studio 2015\Projects\BhadaFare\BhadaFare\bin\Release\BhadaFare.dll
+bin\Release\Mono.Android.pdb
+bin\Release\mscorlib.pdb
+bin\Release\System.Core.pdb
+bin\Release\System.Data.pdb
+bin\Release\System.pdb
+bin\Release\System.Xml.pdb
+bin\Release\System.Net.Http.pdb
+bin\Release\System.Runtime.Serialization.pdb
+bin\Release\System.ServiceModel.Internals.pdb
+bin\Release\System.Numerics.pdb
+bin\Release\System.Transactions.pdb
+bin\Release\Mono.Data.Tds.pdb
+bin\Release\Mono.Security.pdb
+bin\Release\System.ComponentModel.Composition.pdb
+obj\Release\linksrc\BhadaFare.dll.mdb
+obj\Release\linksrc\Mono.Android.pdb
+obj\Release\linksrc\mscorlib.pdb
+obj\Release\linksrc\System.Core.pdb
+obj\Release\linksrc\System.Data.pdb
+obj\Release\linksrc\System.pdb
+obj\Release\linksrc\System.Xml.pdb
+obj\Release\linksrc\System.Net.Http.pdb
+obj\Release\linksrc\System.Runtime.Serialization.pdb
+obj\Release\linksrc\System.ServiceModel.Internals.pdb
+obj\Release\linksrc\System.Numerics.pdb
+obj\Release\linksrc\System.Transactions.pdb
+obj\Release\linksrc\Mono.Data.Tds.pdb
+obj\Release\linksrc\Mono.Security.pdb
+obj\Release\linksrc\System.ComponentModel.Composition.pdb
+obj\Release\designtime\Resource.Designer.cs
